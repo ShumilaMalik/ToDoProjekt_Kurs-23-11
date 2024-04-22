@@ -1,0 +1,27 @@
+{
+  "name": "todoprojekt_kurs-23-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShumilaMalik/ToDoProjekt_Kurs-23-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShumilaMalik/ToDoProjekt_Kurs-23-11/issues"
+  },
+  "homepage": "https://github.com/ShumilaMalik/ToDoProjekt_Kurs-23-11#readme",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
